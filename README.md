@@ -8,13 +8,8 @@ Try it out:
 
 ### Screenshots
 <p align="center">
-  a. Client App
-  
-  <a><img src="screenshots/screenshot_one.png" align="center" ></a>
+  <a><img src="screenshots/Screenshot_one.png" align="center" ></a>
 </p>
 <p align="center">  
-  b. Admin App
-  
-  <a><img src="screenshots/screenshot_two.png" align="center" ></a>
-
+  <a><img src="screenshots/Screenshot_two.png" align="center" ></a>
 </p>
